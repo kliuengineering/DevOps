@@ -6,6 +6,9 @@
 
 ---
 
+## Pre-requisite
+[This leads to the pre-req doc for learning the basics.](./JavaTestAutomation/readme.md)
+
 ## 📍 Year 1 (Now – Graduation)
 
 ### 🟦 Phase 1: Foundation (0–3 months)

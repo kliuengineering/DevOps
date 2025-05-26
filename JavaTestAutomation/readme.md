@@ -6,6 +6,9 @@
 
 ---
 
+## Redirections
+- [This link leads back to the main roadmap doc](../roadmap.md)
+
 ## 📌 Weekly Overview
 
 | Week | Theme | Milestones |
