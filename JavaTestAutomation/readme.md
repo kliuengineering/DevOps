@@ -8,6 +8,7 @@
 
 ## Redirections
 - [This link leads back to the main roadmap doc](../roadmap.md)
+- [Setup instructions for essential packages](./setup.md)
 
 ## 📌 Weekly Overview
 
