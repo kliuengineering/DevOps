@@ -32,8 +32,8 @@
 
 #### ✅ Tasks:
 - [x] Day 1: Java setup, Hello World, control flow, data types  
-- [ ] Day 2: Classes, methods, constructors, Git basics  
-- [ ] Day 3: Inheritance, polymorphism, encapsulation  
+- [x] Day 2: Classes, methods, constructors, Git basics  
+- [x] Day 3: Inheritance, polymorphism, encapsulation  
 - [ ] Day 4: Java Collections (List, Map, Set) + simple demo  
 - [ ] Day 5: Exception handling, file I/O, intro to Maven  
 - [ ] Day 6: Oracle SQL: SELECT, JOINs, ROWNUM, basic PL/SQL blocks  
